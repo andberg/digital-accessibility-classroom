@@ -1,10 +1,14 @@
 ### Acknowledgements
 
-Thanks to [stellitzab](https://github.com/stellitzab) who's allowed me to fork her project for this workshop 🙌. And thans to Hampus Sethfors from [Axesslabs](https://axesslab.com) for many of the usefulls links.
+Thanks to [stellitzab](https://github.com/stellitzab) who's allowed me to fork her project for this workshop 🙌. And thanks to Hampus Sethfors from [Axesslabs](https://axesslab.com) for many of the usefull links.
 
 # Accessiblity Classroom Exercise
 
-This project includes a bunch of accessibility flaws and is thereby great to practice your skills at finding accessibility-bugs on. The goal is to adapt the page to make the content accessible for users with screen readers or users only able to navigate with the keyboard for example.
+This project includes a bunch of accessibility flaws and is thereby great to practice your skills at finding accessibility-bugs on. The goal is to adapt the page to make the content accessible for all users.
+
+## Bug Hunting!
+
+The challenge, if you choose to accept it, is to look through this [WCAG Checklist](https://www.digitala11y.com/wcag-checklist/) and review this application. Take one critera at the time and see if it's applicable to this application and if it is does the application fulfill the criteria or not. And if it doesn't, can you fix it in the code?
 
 ## Requirements
 
@@ -18,11 +22,7 @@ This project includes a bunch of accessibility flaws and is thereby great to pra
 - Run `ng serve` for a local dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 - Use any editor of your choice and update the code to improve the usability and accessibility of the application. Try navigating it with the keyboard or using a screen reader.
 
-## Bug Hunting!
-
-The challenge, if you choose to accept it, is to look through this [WCAG Checklist](https://www.digitala11y.com/wcag-checklist/) and review this application. Take one critera at the time and see if it's applicable to this application and if it is - can you fix it in the code?
-
-## Useful links
+## Accessibility links
 
 ### Understanding Users
 
