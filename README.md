@@ -1,6 +1,6 @@
 ### Acknowledgements
 
-Thanks to stellitzab who's allowed me to fork her project for this workshop 🙌. And thans to Hampus Sethfors from [Axesslabs](https://axesslab.com) for many of the usefulls links.
+Thanks to [stellitzab](https://github.com/stellitzab) who's allowed me to fork her project for this workshop 🙌. And thans to Hampus Sethfors from [Axesslabs](https://axesslab.com) for many of the usefulls links.
 
 # Accessiblity Classroom Exercise
 
@@ -21,14 +21,6 @@ This project includes a bunch of accessibility flaws and is thereby great to pra
 ## Bug Hunting!
 
 The challenge, if you choose to accept it, is to look through this [WCAG Checklist](https://www.digitala11y.com/wcag-checklist/) and review this application. Take one critera at the time and see if it's applicable to this application and if it is - can you fix it in the code?
-
-A critera can be;
-
-- OK - the application fulfills the criterias requirement
-- N/A - it is not relevant for this application
-- Bug - the application does not fulfill the WCAG requirement and needs fixing
-
-Take note someplace of how many criterias you can find and how many you can fix!
 
 ## Useful links
 
