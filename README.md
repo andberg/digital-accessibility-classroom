@@ -29,6 +29,7 @@ The challenge, if you choose to accept it, is to look through this [WCAG Checkli
 - [Afasi och digitalisering (2 min, Swedish)](https://vimeo.com/321437308)
 - [Interesting tech-YouTubers](https://axesslab.com/tech-youtubers/)
 - [App for blind - Tommy Edison (3 min)](https://www.youtube.com/watch?v=NeB0BH8rAc8&t=7s&ab_channel=TheTommyEdisonExperience)
+- [Notes on blindness - To help him make sense of the upheaval in his life, he began documenting his experiences on audio cassette. These original diary recordings form the basis of this six-part VR experience, an interactive non fiction using new forms of storytelling and gameplay mechanics to explore his cognitive and emotional experience of blindness.](https://www.youtube.com/watch?v=tb5DwAZIQZw&ab_channel=InceptionVR)
 
 ### Articles
 
